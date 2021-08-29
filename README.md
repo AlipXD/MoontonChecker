@@ -9,7 +9,7 @@ Can only be run in python3
 pkg update && pkg upgrade
 pkg install python git
 pip install requests futures bs4
-git clone https://github.com/dz-id/MoontonChecker
+git clone https://github.com/AlipXD/MoontonChecker
 cd MoontonChecker
-python moonton.py
+python checker
 ```
