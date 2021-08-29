@@ -11,5 +11,5 @@ pkg install python git
 pip install requests futures bs4
 git clone https://github.com/AlipXD/MoontonChecker
 cd MoontonChecker
-python checker
+python moonton.py
 ```
